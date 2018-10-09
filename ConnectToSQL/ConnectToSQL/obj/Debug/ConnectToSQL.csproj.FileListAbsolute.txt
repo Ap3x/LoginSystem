@@ -1,0 +1,11 @@
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.csproj.CoreCompileInputs.cache
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe.config
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.pdb
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.exe
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.pdb
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe.manifest
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.application
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.exe.manifest
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.application
+C:\Users\NATONG01\source\repos\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.csprojAssemblyReference.cache
